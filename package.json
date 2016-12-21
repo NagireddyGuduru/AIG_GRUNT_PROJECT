@@ -1,0 +1,13 @@
+{
+  "name": "myproject",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-sonar-runner": "^2.4.8",
+    "grunt-template-jasmine-istanbul": "^0.5.0"
+  }
+}
